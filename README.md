@@ -12,7 +12,7 @@ For an easier use, mounted volumes must have the same name on both PC and Mac co
 
 ## Usage
 
-Type the keyword "**path**" then type the DOS path you want to convert.
+Type the keyword **"path"** then type the DOS path you want to convert.
 
 ![Screenshot](https://raw.github.com/GoOz/Alfred-DOStoUNIXpath/master/screenshot.png)
 
